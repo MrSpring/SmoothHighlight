@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "smoothHighs",
+    "name": "Smooth Highlight",
+    "description": "Makes the block highlights smooth!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["MrSpring"],
+    "credits": "\"Made\" by MrSpring",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
