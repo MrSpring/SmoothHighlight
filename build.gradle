@@ -17,7 +17,7 @@ buildscript {
 
 apply plugin: 'forge'
 
-String mod_version = "1.0.0"
+String mod_version = "1.0.1"
 String mc_version = "1.7"
 version = mod_version + "-" + mc_version;
 group = "dk.mrspring" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
