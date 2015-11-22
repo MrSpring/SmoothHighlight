@@ -20,7 +20,7 @@ plugins {
     id "net.minecraftforge.gradle.forge" version "2.0.2"
 }
 
-String mod_version = "1.0.0"
+String mod_version = "1.0.1"
 String mc_version = "1.8"
 version = mod_version + "-" + mc_version;
 group = "dk.mrspring" // http://maven.apache.org/guides/mini/guide-naming-conventions.html

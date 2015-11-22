@@ -11,7 +11,7 @@ import org.lwjgl.opengl.GL11;
 /**
  * Created on 18-11-2015 for 1.8.
  */
-@Mod(modid = "smoothHighs", name = "Smooth Highlight", version = "1.0.0", clientSideOnly = true)
+@Mod(modid = "smoothHighs", name = "Smooth Highlight", version = "1.0.1", clientSideOnly = true)
 public class SmoothHighlight
 {
     @Mod.EventHandler
